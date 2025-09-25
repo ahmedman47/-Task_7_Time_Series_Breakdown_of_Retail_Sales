@@ -1,0 +1,12 @@
+ Task 7: Time Series Breakdown of Retail Sales 
+Description:
+ Dataset ( Recommended): Walmart Sales Forecasting (Kaggle)  
+Analyze a retail dataset with monthly sales 
+Plot trends, moving averages, and seasonal patterns 
+Break down revenue by product and region over time
+ Tools & Libraries:
+ Python (Pandas, Matplotlib) or Excel 
+Covered Topics
+ Time series analysis |   Trend & seasonality  |  Visualization over time 
+Bonus: 
+ Add simple forecasting (rolling mean or exponential smoothing)
